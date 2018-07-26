@@ -1,0 +1,26 @@
+/* font-family: 'Ramabhadra', sans-serif;
+font-family: 'Rakkas', cursive;
+font-family: 'Ultra', serif; */
+
+.header {
+    font-family: 'Rakkas', cursive;
+    font-size: 15pt;
+}
+
+.container {
+    border: 1px solid lightgray;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.container-header {
+    border-bottom: 1px solid lightgray;
+    font-family: 'Ultra', serif;
+    font-size: 20pt;
+    padding-bottom: 10px;
+}
+
+.results {
+    font-family: 'Ramabhadra', sans-serif;
+    font-size: 14px;
+}

@@ -1,0 +1,19 @@
+.jumbotron {
+  min-height: 150px;
+  padding-top: 100px;
+}
+
+/* font-family: 'Ramabhadra', sans-serif;
+font-family: 'Rakkas', cursive;
+font-family: 'Ultra', serif; */
+
+.title {
+  font-family: 'Ultra', serif;
+  font-size: 40pt;
+}
+
+.slogan {
+  font-family: 'Rakkas', cursive;
+  font-size: 20pt;
+  /* font-family: 'Ramabhadra', sans-serif; */
+}
